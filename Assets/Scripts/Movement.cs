@@ -6,8 +6,8 @@ public class Movement : MonoBehaviour
     //variables
     private Rigidbody rb;
 
-    public float speed = 5f;
-    public float lookSpeed = 4f;
+    public float speed = 4f;
+    public float lookSpeed = 5f;
     public float coins = 0f;
     public bool won = false;
 
